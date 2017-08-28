@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Testing small to medium size client projects with Behat",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
