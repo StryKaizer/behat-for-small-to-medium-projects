@@ -18,6 +18,12 @@
         }
     },
     {
+        "filename": "goals-of-testing.md",
+        "attr": {
+            "data-background": "#007777"
+        }
+    },
+    {
         "filename": "why-automate-tests.md",
         "attr": {
             "data-background": "#007777"
