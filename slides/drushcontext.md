@@ -1,18 +1,19 @@
+### DrushContext
 
-          <h2>DrushContext</h2>
-          <pre>
-            <span>Given I run drush &lt;command&gt;
-            The drush output should contain &lt;text&gt;</span>
-          </pre>
+```
+Given I run drush <command>
+The drush output should contain <text>
+```
 
-          <h2>MessageContext</h2>
-          <pre>
-            <span>Then I should see the error message &lt;message&gt;
-            Then I should not see the success message &lt;message&gt;</span>
-          </pre>
+### MessageContext
 
-          <h2>FeatureContext</h2>
-          <pre>
-            <span>Your own custom steps</span>
-          </pre>
-        
+```
+Then I should see the error message <message>
+Then I should not see the success message <message>
+```
+
+### FeatureContext
+
+```
+Your own custom steps
+```

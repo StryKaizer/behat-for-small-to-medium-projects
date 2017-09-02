@@ -1,14 +1,16 @@
 
           <h2>DrupalContext</h2>
           <pre>
-            <span>Given I am not logged in
-            Given I am logged in as a/an &lt;role&gt;</span>
+            <code class="gherkin">
+            Given I am not logged in
+            Given I am logged in as a/an &lt;role&gt;
 
-            <span>Given a/an &lt;type&gt; with the title &lt;title&gt;
-            Given a/an &lt;vocabulary&gt; term with the name &lt;name&gt;</span>
+            Given a/an &lt;type&gt; with the title &lt;title&gt;
+            Given a/an &lt;vocabulary&gt; term with the name &lt;name&gt;
 
-            <span>Given the following languages are available:</span>
+            Given the following languages are available:
 
-            <span>Given the cache has been cleared</span>
+            Given the cache has been cleared
+            </code>
           </pre>
         

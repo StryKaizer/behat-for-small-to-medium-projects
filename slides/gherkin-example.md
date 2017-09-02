@@ -1,5 +1,5 @@
 
-          <h2>Behat example</h2>
+          <h2>Gherkin example</h2>
           <pre>
             <code class="gherkin">
               Feature: Product highlights

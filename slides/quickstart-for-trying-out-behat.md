@@ -2,8 +2,6 @@
 
 * Based on the "Drupal Project" project
 * Composer / Drush / Drupal Console
-* Behat / PHPUnit
-* Coding standards checks
 * Integration with Travis CI
 
-[https://github.com/pfrenssen/drupal-project](https://github.com/pfrenssen/drupal-project)
+[https://github.com/drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project)

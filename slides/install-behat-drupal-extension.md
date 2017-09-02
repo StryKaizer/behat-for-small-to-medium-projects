@@ -1,14 +1,14 @@
 
           <h2>Install Behat Drupal Extension</h2>
-          <pre class="bash">
-            <div>
+          <pre>
+            <code class="bash">
               $ composer require drupal/drupal-extension
-            </div>
+            </code>
           </pre>
           <h4>Test if it works</h4>
-          <pre class="bash">
-            <div>
+          <pre>
+            <code class="bash">
               $ ./vendor/bin/behat --version
-            </div>
+            </code>
           </pre>
         
