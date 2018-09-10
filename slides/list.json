@@ -1,6 +1,15 @@
 [
     {
-        "filename": "testing-small-to-medium-size-client-projects-with-behat.md"
+        "filename": "testing-small-to-medium-size-client-projects-with-behat.md",
+        "attr": {
+            "data-background-image": "resources/img/intro.png"
+        }
+    },
+    {
+        "filename": "sponsor.md",
+        "attr": {
+            "data-background-image": "resources/img/sponsor.png"
+        }
     },
     {
         "filename": "pieter-frenssen.md"
