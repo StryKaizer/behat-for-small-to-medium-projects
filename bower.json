@@ -1,5 +1,5 @@
 {
-  "name": "testing-small-to-medium-size-client-projects-with-behat",
+  "name": "testing-small-client-projects-with-behat",
   "version": "0.0.0",
   "dependencies": {
     "reveal.js": "~3.3.0",
