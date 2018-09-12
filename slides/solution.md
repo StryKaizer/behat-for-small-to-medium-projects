@@ -1,10 +1,9 @@
-## Solution
+## Cost effective solution
 
 ```
 * Behat
-* Behat Drupal Extension
-* Github / Gitlab / Bitbucket
-* 3rd party CI service
+* Github / Gitlab / Bitbucket / ...
+* Travis CI / Drone.io / CircleCI / Bamboo / ...
 ```
 
 Monthly cost: 80-150 euro
