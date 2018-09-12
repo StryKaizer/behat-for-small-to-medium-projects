@@ -221,6 +221,12 @@
         }
     },
     {
+        "filename": "install-selenium.md",
+        "attr": {
+            "data-background": "#7a6750"
+        }
+    },
+    {
         "filename": "install-behat-drupal-extension.md",
         "attr": {
             "data-background": "#7a6750"
