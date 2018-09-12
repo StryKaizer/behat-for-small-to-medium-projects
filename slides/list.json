@@ -313,6 +313,12 @@
         }
     ],
     {
+        "filename": "example-code.md",
+        "attr": {
+            "data-background": "#7a6750"
+        }
+    },
+    {
         "filename": "questions.md",
         "attr": {
             "data-background": "#1e7849"
