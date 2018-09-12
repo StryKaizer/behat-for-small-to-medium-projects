@@ -262,70 +262,14 @@
             "data-background": "#b4946e"
         }
     },
-    [
-        {
-            "filename": "quickstart-for-trying-out-behat.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "fork-it-on-github.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "activate-project-on-travis-ci.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "install-project-locally.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "configure-project.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "configure-dev-environment.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "build-development-environment.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "install-development-environment.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "push-your-changes.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        },
-        {
-            "filename": "test-results.md",
-            "attr": {
-                "data-background": "#7a6750"
-            }
-        }
-    ],
     {
         "filename": "example-code.md",
+        "attr": {
+            "data-background": "#7a6750"
+        }
+    },
+    {
+        "filename": "quickstart-for-trying-out-behat.md",
         "attr": {
             "data-background": "#7a6750"
         }
