@@ -1,7 +1,7 @@
 ## Business value
 
+* *Minimize regressions*
 * Reduce QA effort
-* Minimize regressions
 * Increased stability
 * Improved software quality
 * Streamlined delivery process
