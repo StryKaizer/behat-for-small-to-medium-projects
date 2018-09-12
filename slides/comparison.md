@@ -1,11 +1,11 @@
 ## Comparison
 
-### BrowserTest
+*BrowserTest*
 
 * Very slow to run
 * Moderately difficult to write
 
-### Behat
+*Behat*
 
 * Fast to run
 * Easy to write
