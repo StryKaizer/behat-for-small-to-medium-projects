@@ -191,6 +191,12 @@
         }
     },
     {
+        "filename": "third-party-contexts.md",
+        "attr": {
+            "data-background": "#b4946e"
+        }
+    },
+    {
         "filename": "subcontexts.md",
         "attr": {
             "data-background": "#b4946e"
