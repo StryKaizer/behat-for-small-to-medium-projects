@@ -33,12 +33,6 @@
         }
     },
     {
-        "filename": "why-automate-tests.md",
-        "attr": {
-            "data-background": "#007777"
-        }
-    },
-    {
         "filename": "types-of-automated-tests.md",
         "attr": {
             "data-background": "#007777"
