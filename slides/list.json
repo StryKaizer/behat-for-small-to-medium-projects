@@ -114,18 +114,26 @@
             }
         }
     ],
-    {
-        "filename": "history-of-testing-in-drupal.md",
-        "attr": {
-            "data-background": "#007777"
+    [
+        {
+            "filename": "testing-frameworks-in-drupal-built-in.md",
+            "attr": {
+                "data-background": "#007777"
+            }
+        },
+        {
+            "filename": "testing-frameworks-in-drupal-third-party.md",
+            "attr": {
+                "data-background": "#007777"
+            }
+        },
+        {
+            "filename": "comparison.md",
+            "attr": {
+                "data-background": "#007777"
+            }
         }
-    },
-    {
-        "filename": "comparison.md",
-        "attr": {
-            "data-background": "#007777"
-        }
-    },
+    ],
     {
         "filename": "solution.md",
         "attr": {
