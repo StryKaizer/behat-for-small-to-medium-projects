@@ -56,64 +56,18 @@
             "data-background": "#007777"
         }
     },
-    [
-        {
-            "filename": "agile.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
-        },
-        {
-            "filename": "agile-workflow.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
-        },
-        {
-            "filename": "agile-workflow-tests.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
-        },
-        {
-            "filename": "agile-workflow-branches.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
-        },
-        {
-            "filename": "agile-workflow-tips.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
-        },
-        {
-            "filename": "definition-of-done.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
-        },
-        {
-            "filename": "doing-effective-qa.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
-        },
-        {
-            "filename": "continuous-integration.md",
-            "attr": {
-                "data-background": "#1e7849"
-            }
+    {
+        "filename": "continuous-integration.md",
+        "attr": {
+            "data-background": "#1e7849"
         }
-    ],
-    [
-        {
-            "filename": "tests-for-small-projects.md",
-            "attr": {
-                "data-background": "#007777"
-            }
+    },
+    {
+        "filename": "tests-for-small-projects.md",
+        "attr": {
+            "data-background": "#007777"
         }
-    ],
+    }
     [
         {
             "filename": "testing-frameworks-in-drupal-built-in.md",
